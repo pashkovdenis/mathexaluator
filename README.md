@@ -1,2 +1,6 @@
-# pashkovdenis-gmail.com
-c# Math expression simple evaluator
+# c# Math expression   evaluator
+
+simple console math evaluator parses string as math expression 
+
+ex: 2+(2*5) ... 
+
